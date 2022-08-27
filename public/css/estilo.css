@@ -14,7 +14,7 @@ body{
 
 .conteudo{
    height:500px;
-   border-radius: 5px;
+   border-radius: 10px 10px 10px 0 0 ;
    background:white;
    width:20%;
    
